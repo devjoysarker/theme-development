@@ -1,0 +1,101 @@
+
+
+
+.manu ul li a{
+    color: #fff !important;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+
+/* Banner-section */
+.banner-section {
+  background: url(https://i.postimg.cc/N0tMVLTx/photo-1543373014-cfe4f4bc1cdf.jpg);
+  background-size: cover;
+  background-position: top center;
+  background-size: cover;
+  padding: 300px 0;
+  text-align: center;
+  margin-top: -93px;
+}
+.banner-sections{
+  background: url(https://i.postimg.cc/mZK7rqrq/banner-header-tapete-1450520058-Odj.jpg);
+  background-size: cover;
+  background-position: top center;
+  background-size: cover;
+  padding: 300px 0;
+  text-align: center;
+  margin-top: -93px;
+}
+.banner-sectionser{
+  background: url(https://i.postimg.cc/qRPYQwk7/pngtree-awesome-high-quality-luxury-mandala-background-image-423797.jpg);
+  background-size: cover;
+  background-position: top center;
+  background-size: cover;
+  padding: 300px 0;
+  text-align: center;
+  margin-top: -93px;
+  color: #fff;
+}
+
+/* Blog-service */
+.blog-ingo h1 {
+  text-align: center;
+  width: 550px;
+  margin: auto;
+  font-size: 28px;
+  padding-top: 21px;
+}
+.blog-section{
+  background: #dddd;
+}
+
+
+
+
+
+
+
+
+
+/* foooter section */
+
+.content-32{} 
+.content-32 h5{
+  font-size: 28px;
+} 
+.content-32 h6{
+ 
+} 
+.content-32 h6 a {
+  text-decoration: none;
+  display: inline-block;
+  color: black;
+  padding: 6px 0;
+}
+.content-32 h6 a i{
+  visibility: hidden;
+  opacity: 0;
+  margin-right: -10px;
+  transition: .8s;
+} 
+.content-32 h6 a:hover{
+  color: blue;
+} 
+.content-32 h6 a:hover i{
+  visibility: visible;
+  opacity: 1;
+  color: blue;
+  margin-right: 8px;
+}
+body {
+  overflow-x: hidden !important;
+}
+
+.content-33 i{
+  background: #fff;
+  border-radius: 50%;
+  margin-right: 7px;
+  cursor: pointer;
+  color: #0d6efd!important;
+}
